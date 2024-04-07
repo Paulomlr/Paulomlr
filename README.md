@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img height="800" width="600" src="/gif/Windy City.gif"/>
+  <img height="600" width="500" src="/gif/Windy City.gif"/>
 </div>
 
 ###
