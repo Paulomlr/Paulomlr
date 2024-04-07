@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!!</h1>
 
 ###
-<p align="left">HI 👋, i'm Paulo César!  A student of informartion systems and passionate for technology.</p>
+<p align="left">HI 👋, i'm Paulo!  A student of informartion systems and passionate for technology.</p>
 
 ###
 
