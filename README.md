@@ -8,7 +8,7 @@
 * 📚   I’m currently studying Information Systems in the UNIFESSPA.
 
 ###
-* 🔭 My dreams are:  to work with Java and to develope real applications and to work with Front-end.
+* 🔭 My dreams are:  to work with Java and to develope real applications.
 
 ###
 
