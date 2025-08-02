@@ -9,13 +9,13 @@
 <p align="left">Opa, eu sou o Paulo César, tenho 20 anos e sou natural do Pará. Estudo Sistemas de Informação na UNIFESSPA e curto desenvolver backends com Java. Gosto de aprender na prática, mexer com arquitetura de software e também tenho interesse em DevOps e infraestrutura. Tô sempre construindo algo para evoluir como dev e resolver problemas reais.</p>
 
 <div align="left">
-  <a href="https://www.instagram.com/paulo_mlr?igsh=MWdteDlnZ3V6MGpiMQ==" target="_blank">
+  <a href="https://www.instagram.com/paulo_mlr?igsh=MWdteDlnZ3V6MGpiMQ==" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:paulopinheiro.dev@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=paulopinheiro.dev@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/paulomlr" target="_blank">
+  <a href="www.linkedin.com/in/paulomlr" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
